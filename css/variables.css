@@ -1,0 +1,23 @@
+:root {
+    --max-width-mobile: 375px;
+    --max-width-desktop: 1440px;
+
+    --primary-color-01: hsl(31, 77%, 52%); /* Bright orange */
+    --primary-color-02: hsl(184, 100%, 22%); /* Dark cyan */
+    --primary-color-03: hsl(179, 100%, 13%); /* Very dark cyan */
+
+    
+    --neutral-color-01: hsla(0, 0%, 100%, 0.75); /* Transparent white */
+    --neutral-color-02: hsl(0, 0%, 95%); /* Very light gray */
+    
+    --font-size-01: 15px;
+
+    --font-family-01: 'Big Shoulders Display', cursive;
+    --font-family-02: 'Lexend Deca', sans-serif;
+
+    --font-weight-01: 400;
+    --font-weight-02: 700;
+
+    --border-radius01: 1em;
+
+}

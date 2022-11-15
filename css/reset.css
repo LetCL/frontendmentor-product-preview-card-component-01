@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body *{
+    border-style:0;
+}
+
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+h1, h2, strong {
+    font-style: bold;
+}
+
+p {
+    font-style: normal;
+}
+
+
+a {
+    text-decoration: none;
+}
